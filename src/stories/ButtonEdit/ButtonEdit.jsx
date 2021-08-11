@@ -60,7 +60,7 @@ ButtonEdit.propTypes = {
   onClick: PropTypes.func,
 }
 
-// aqui ira definir um estado default esse estado é quando não tem nada definido a ele
+// aqui ira definir um estado default
 ButtonEdit.defaultProps = {
   color: null,
   backgroundColor: null,
