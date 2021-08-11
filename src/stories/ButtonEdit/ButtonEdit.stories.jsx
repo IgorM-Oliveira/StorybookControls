@@ -23,6 +23,3 @@ Controls.args = {
     label: 'Button Editavel',
     size: 'large'
 }
-
-
-
